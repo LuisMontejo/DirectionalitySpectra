@@ -4,7 +4,10 @@ This module contains python functions that allow the computation of response  di
 
 The functions included can also be used to load acceleration records in PEER/NGA format and compute RotD100/RotD50 response spectra.
 
-*Rivera-Figueroa, A., & Montejo, L.A. (2021). Spectral Matching RotD100 Target Spectra: Effect on records characteristics and seismic response. Earthquake Spectra. https://doi.org/10.1177/87552930211049259
+Cite the paper: Rivera-Figueroa, A., & Montejo, L.A. (2021). Spectral Matching RotD100 Target Spectra: Effect on records characteristics and seismic response. Earthquake Spectra. https://doi.org/10.1177/87552930211049259
+
+Cite the code: [![DOI](https://zenodo.org/badge/386666328.svg)](https://zenodo.org/badge/latestdoi/386666328)
+
 
 Functions:
 
