@@ -8,6 +8,8 @@ Cite the paper: Rivera-Figueroa, A., & Montejo, L.A. (2021). Spectral Matching R
 
 Cite the code: [![DOI](https://zenodo.org/badge/386666328.svg)](https://zenodo.org/badge/latestdoi/386666328)
 
+Example: https://youtu.be/EFnHXJhjlhE
+
 
 Functions:
 
