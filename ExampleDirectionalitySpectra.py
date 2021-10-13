@@ -8,7 +8,7 @@ alan.rivera@upr.edu
 
 Rivera-Figueroa, A., & Montejo, L.A. (2021). Spectral Matching RotD100 Target 
 Spectra: Effect on records characteristics and seismic response. 
-Earthquake Spectra (submitted for publication).
+Earthquake Spectra. https://doi.org/10.1177/87552930211049259
 
 '''
 
